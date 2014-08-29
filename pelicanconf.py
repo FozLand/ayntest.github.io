@@ -15,7 +15,6 @@ DEFAULT_LANG = 'en'
 
 # Menu
 MENUITEMS = ( 
-            ( "Home", "/" ),
             ("graphs ->", "http://grafana.ayntest.net"),
             )
 
