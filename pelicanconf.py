@@ -7,7 +7,7 @@ SITENAME = 'ayntest.net'
 SITEURL = ''
 
 PATH = 'content'
-THEME = 'notmyidea'
+THEME = 'themes/notmyidea'
 
 TIMEZONE = 'UTC'
 
