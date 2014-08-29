@@ -1,4 +1,4 @@
-Title: Welcome to ayntest.net
+Title: Welcome to Liberty Land Minetest
 URL:
 save_as: index.html
 status: hidden
