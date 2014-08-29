@@ -38,7 +38,7 @@ LINKS = ()
 # Social widget
 SOCIAL = (
 #         ('twitter', '#'),
-         ('edit this site on github', '#'),
+         ('edit this site on github', 'https://github.com/lathan/ayntest.net-website'),
          )
 
 DEFAULT_PAGINATION = 10
