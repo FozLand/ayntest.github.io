@@ -37,7 +37,7 @@ LINKS = ()
 
 # Social widget
 SOCIAL = (
-#         ('twitter', '#'),
+         ('twitter', 'https://twitter.com/m_ayntest'),
          ('edit this site on github', 'https://github.com/lathan/ayntest.net-website'),
          )
 
