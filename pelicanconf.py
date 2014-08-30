@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'ayntest.net team'
 SITENAME = 'ayntest.net'
+SITESUBTITLE = 'Liberty Land Minetest'
 SITEURL = ''
 
 PATH = 'content'
