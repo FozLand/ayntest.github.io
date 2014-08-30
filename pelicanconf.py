@@ -38,6 +38,7 @@ LINKS = ()
 SOCIAL = (
          ('twitter', 'https://twitter.com/m_ayntest'),
          ('edit this site on GitHub', 'https://github.com/lathan/ayntest.net-website'),
+         ('email', 'mailto:admin@ayntest.net'),
          )
 
 DEFAULT_PAGINATION = 10
