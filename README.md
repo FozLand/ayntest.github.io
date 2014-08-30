@@ -1,6 +1,6 @@
 # ayntest.net pelican source files
 
-These are the pelican source files for ayntest.net.
+These are the pelican source files for [ayntest.net](http://ayntest.net).
 
 
 To work on this you will need the most recent stable version of [pelican](http://blog.getpelican.com/).
