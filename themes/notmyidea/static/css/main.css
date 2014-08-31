@@ -138,6 +138,12 @@ table {margin: .5em auto 1.5em auto; width: 98%;}
 	/* Tfoot */
 	tfoot th {}
 	tfoot td {}
+
+/* Code */
+code {
+    background: #F5F5F5;
+    padding: 0.2em;
+}
 	
 /* HTML5 tags */
 header, section, footer,
