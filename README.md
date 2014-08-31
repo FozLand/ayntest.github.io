@@ -10,7 +10,7 @@ From the optional dependencies of pelican, you will also need python-markdown.
 
 ##### If you have access to the webserver
 1. Clone the repo, `cd` into it.
-2. Do `./develop_server.sh`. This will preview the site at `localhost:8000`
+2. Do `./develop_server.sh start`. This will preview the site at `localhost:8000`
 3. Make changes, commit, push.
 4. To upload to the live site do `make rsync_upload`
 
