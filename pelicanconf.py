@@ -38,8 +38,8 @@ LINKS = ()
 # Social widget
 SOCIAL = (
          ('twitter', 'https://twitter.com/m_ayntest'),
-         ('edit this site on GitHub', 'https://github.com/ayntest/ayntest.net-website'),
          ('email', 'mailto:admin@ayntest.net'),
+         ('edit this site on GitHub', 'https://github.com/ayntest/ayntest.net-website'),
          )
 
 DEFAULT_PAGINATION = 10
