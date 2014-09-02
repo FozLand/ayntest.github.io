@@ -8,6 +8,7 @@ You don't *need* to know them, but it might be useful!
 
 <span id="Basic Commands">
 # Basic Commands
+<hr>
 </span>
 All commands are typed into the chat window (which opens by default with `t` or `/`).
 
@@ -34,6 +35,7 @@ For example: `/@ sol Hello, sol. How are you?`
 
 <span id="Landrush">
 # Landrush
+<hr>
 </span>
 To prevent other players from altering an area you are building in, craft and place a "Land Rush Land Claim" block. Search for it in the inventory crafting guide.
 
