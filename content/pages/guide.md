@@ -12,6 +12,9 @@ Shows you a complete list of commands.
 ### /spawn
 Takes you to spawn.
 
+### /arena
+Takes you to the Player versus Player arena.
+
 ### /who
 Tells you which players are online.
 
