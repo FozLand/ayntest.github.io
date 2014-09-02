@@ -16,7 +16,7 @@ DEFAULT_LANG = 'en'
 
 # Menu
 MENUITEMS = ( 
-            ("graphs ->", "http://grafana.ayntest.net"),
+            ("Graphs ->", "http://grafana.ayntest.net"),
             )
 
 DISPLAY_PAGES_ON_MENU = True
