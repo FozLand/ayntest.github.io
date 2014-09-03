@@ -13,7 +13,8 @@ You don't *need* to know them, but they might be useful!
 All commands are typed into the chat window (which opens by default with `t` or `/`).
 
 ### /help
-Shows you a complete list of commands.
+Shows you a complete list of commands.  
+*Hint*: Try `/help all`. Press `F10` to see the console and `PageUp`/`PgDown` to scroll.
 
 ### /spawn
 Takes you to spawn.
