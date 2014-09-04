@@ -3,9 +3,9 @@
 These are the pelican source files for [ayntest.net](http://ayntest.net).
 
 
-To work on this you will need the most recent stable version of [pelican](http://blog.getpelican.com/).
-From the optional dependencies of pelican, you will also need python-markdown.
-For automatically pushing the site to github with `make`, you will also need [ghb-import](https://github.com/davisp/ghp-import).
+To work on this you will need the most recent stable version of [pelican](http://blog.getpelican.com/).  
+From the optional dependencies of pelican, you will also need python-markdown.  
+For automatically pushing the site to github with `make`, you will also need [ghb-import](https://github.com/davisp/ghp-import).  
 
 ## How to contribute
 
