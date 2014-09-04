@@ -2,6 +2,7 @@
 
 These are the pelican source files for [ayntest.net](http://ayntest.net).
 
+## What you need
 
 To work on this you will need the most recent stable version of [pelican](http://blog.getpelican.com/).  
 From the optional dependencies of pelican, you will also need python-markdown.  
