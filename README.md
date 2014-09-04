@@ -13,7 +13,7 @@ For automatically pushing the site to github with `make`, you will also need [gh
 1. Clone the repo, `cd` into it.
 2. Do `./develop_server.sh start`. This will preview the site at `localhost:8000`
 3. Make changes, commit, push.
-4. To upload to github pages `make github`
+4. To upload to live site (github pages) do `make github`
 
 ##### If you don't have access to the webserver
 Similar as above. Just fork the project on github, push your changes there, then make a pull request.  
