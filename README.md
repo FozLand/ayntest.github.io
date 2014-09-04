@@ -1,4 +1,4 @@
-# ayntest.net pelican source files
+# www.ayntest.net pelican source files
 
 These are the pelican source files for [ayntest.net](http://ayntest.net).
 
