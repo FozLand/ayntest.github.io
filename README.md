@@ -15,6 +15,6 @@ For automatically pushing the site to github with `make`, you will also need [gh
 3. Make changes, commit, push.
 4. To upload to live site (github pages) do `make github`
 
-##### If you don't have access to the webserver
-Similar as above. Just fork the project on github, push your changes there, then make a pull request.  
+##### If you don't have push access to this repo
+Similar as above. Just fork the repo on github, push your changes there, then make a pull request.  
 Alternatively, just open an issue!
