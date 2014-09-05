@@ -12,9 +12,9 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=ayntest.net
-SSH_PORT=443
-SSH_USER=root
+SSH_HOST=
+SSH_PORT=
+SSH_USER=
 SSH_TARGET_DIR=/var/www/ayntest.net
 
 S3_BUCKET=my_s3_bucket
