@@ -5,6 +5,7 @@ You don't *need* to know them, but they might be useful!
 
 * [Basic Commands](#Basic Commands)
 * [Landrush](#Landrush)
+* [Teleportation](#Teleportation)
 
 <span id="Basic Commands">
 # Basic Commands
@@ -59,3 +60,13 @@ Tells you who can edit the area you are in.
 
 ### /unclaim
 Relinquishes the claim you have on the area you are in and gives you back your Claim Block.
+
+
+
+<span id="Teleportation">
+# Teleportation
+<hr>
+</span>
+
+### /tpr playername
+Request to be teleported to "playername". The other player has to accept with `/tpy`.
