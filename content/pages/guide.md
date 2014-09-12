@@ -70,3 +70,6 @@ Relinquishes the claim you have on the area you are in and gives you back your C
 
 ### /tpr playername
 Request to be teleported to "playername". The other player has to accept with `/tpy`.
+
+### /tphr playername
+Request for "playername" to be teleported to your position. The other player has to accept with `/tpy`.
