@@ -37,7 +37,6 @@ var northEast = map.unproject([8328, 0], map.getMaxZoom());
 map.setMaxBounds(new L.LatLngBounds(southWest, northEast));
 L.tileLayer('http://maps.ayntest.net/tiles/map_{x}_{y}.png', {
             maxZoom: 24,
-            attribution: 'anon'
 }).addTo(map);
 </script></p>
 </div>
