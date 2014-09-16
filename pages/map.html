@@ -35,7 +35,7 @@ var map = L.map('map', {
 var southWest = map.unproject([0, 8328], map.getMaxZoom());
 var northEast = map.unproject([8328, 0], map.getMaxZoom());
 map.setMaxBounds(new L.LatLngBounds(southWest, northEast));
-L.tileLayer('http://maps.ayntest.net/tiles/map_{x}_{y}.png', {
+L.tileLayer('http://maps.ayntest.net/tiles/{z}/map_{x}_{y}.png', {
             maxZoom: 24,
             tileSize: 347,
 }).addTo(map);
