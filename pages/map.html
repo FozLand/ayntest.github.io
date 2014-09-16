@@ -27,19 +27,20 @@
 <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
 <div style="height:480px" id="map">
 <script>
+var mapsize = 8256;
 var map = L.map('map', {
     maxZoom:24,
     minZoom:24,
     crs: L.CRS.Simple
 }).setView([0,0], 24);
-var southWest = map.unproject([0, 8328], map.getMaxZoom());
-var northEast = map.unproject([8328, 0], map.getMaxZoom());
+var southWest = map.unproject([0, mapsize], map.getMaxZoom());
+var northEast = map.unproject([mapsize, 0], map.getMaxZoom());
 map.setMaxBounds(new L.LatLngBounds(southWest, northEast));
 L.tileLayer('http://maps.ayntest.net/tiles/{z}/map_{x}_{y}.png', {
             maxZoom: 24,
-            tileSize: 347,
+            tileSize: 344,
 }).addTo(map);
-map.setView(map.unproject([4204,4154]));
+map.setView(map.unproject([mapsize/2,mapsize/2]));
 </script></p>
 </div>
 </section>
