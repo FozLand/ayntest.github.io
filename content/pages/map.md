@@ -2,6 +2,8 @@ Title: Map
 
 <link rel="stylesheet" href="/css/leaflet.css" />
 <script src="/javascript/leaflet.js"></script>
+<link rel="stylesheet" href="/css/Control.FullScreen.css" />
+<script src="/javascript/Control.FullScreen.js"></script>
 
 <div style="height:480px" id="map">
 <script>
@@ -9,6 +11,7 @@ var mapsize = 8256;
 var map = L.map('map', {
     maxZoom:24,
     minZoom:22,
+    fullscreenControl: true,
     crs: L.CRS.Simple
 }).setView([0,0], 23);
 var southWest = map.unproject([0, mapsize], map.getMaxZoom());
