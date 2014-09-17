@@ -1,7 +1,7 @@
 Title: Map
 
-<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
-<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+<link rel="stylesheet" href="/css/leaflet.css" />
+<script src="/javascript/leaflet.js"></script>
 
 <div style="height:480px" id="map">
 <script>
