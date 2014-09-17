@@ -17,3 +17,8 @@ status: hidden
 
 3. Optionally, read the [Guide]({filename}./guide.md)
 4. Build something awesome!
+
+
+<br/>
+# Stay updated!
+Subscribe to our [Atom feed](/feeds/all.atom.xml) or follow us on [twitter](https://twitter.com/m_ayntest) to see what we're up to.
