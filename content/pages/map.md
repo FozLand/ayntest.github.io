@@ -25,3 +25,5 @@ map.setView(map.unproject([mapsize/4,mapsize/4]));
 </script>
 
 </div>
+
+White areas on the map have not been explored yet. What are you waiting for!
