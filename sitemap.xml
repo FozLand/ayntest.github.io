@@ -5,42 +5,49 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ayntest.net/index.html</loc>
-<lastmod>2014-09-23T06:26:18-00:00</lastmod>
+<lastmod>2014-09-27T13:08:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ayntest.net/archives.html</loc>
-<lastmod>2014-09-23T06:26:18-00:00</lastmod>
+<lastmod>2014-09-27T13:08:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ayntest.net/tags.html</loc>
-<lastmod>2014-09-23T06:26:18-00:00</lastmod>
+<lastmod>2014-09-27T13:08:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ayntest.net/categories.html</loc>
-<lastmod>2014-09-23T06:26:18-00:00</lastmod>
+<lastmod>2014-09-27T13:08:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ayntest.net/pages/guide.html</loc>
-<lastmod>2014-09-23T06:26:18-00:00</lastmod>
+<lastmod>2014-09-27T13:08:59-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ayntest.net/pages/map.html</loc>
-<lastmod>2014-09-23T06:26:18-00:00</lastmod>
+<lastmod>2014-09-27T13:08:59-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ayntest.net/mobs-are-live.html</loc>
+<lastmod>2014-09-27T10:00:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -75,7 +82,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ayntest.net/category/news.html</loc>
-<lastmod>2014-09-17T10:00:00+00:00</lastmod>
+<lastmod>2014-09-27T10:00:00+00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -89,7 +96,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ayntest.net/author/george.html</loc>
-<lastmod>2014-09-17T10:00:00+00:00</lastmod>
+<lastmod>2014-09-27T10:00:00+00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
