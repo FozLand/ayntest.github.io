@@ -4,8 +4,9 @@ Title: Map
 <script src="/javascript/leaflet.js"></script>
 <link rel="stylesheet" href="/css/Control.FullScreen.css" />
 <script src="/javascript/Control.FullScreen.js"></script>
+<link rel="stylesheet" href="/css/leaflet-custom.css" />
 
-<div style="height:480px" id="map">
+<div id="map">
 <script>
 var mapsize = 8256;
 var map = L.map('map', {
