@@ -10,7 +10,7 @@ Title: Map
 <script>
 var mapsize = 8256;
 var map = L.map('map', {
-    maxZoom:25,
+    maxZoom:28,
     minZoom:22,
     maxNativeZoom:24,
     fullscreenControl: true,
@@ -20,7 +20,7 @@ var southWest = map.unproject([0, mapsize], map.options.maxNativeZoom);
 var northEast = map.unproject([mapsize, 0], map.options.maxNativeZoom);
 map.setMaxBounds(new L.LatLngBounds(southWest, northEast));
 L.tileLayer('http://maps.ayntest.net/tiles/{z}/map_{x}_{y}.png', {
-            maxZoom: 25,
+            maxZoom: 28,
             maxNativeZoom:24,
             tileSize: 344,
 }).addTo(map);
