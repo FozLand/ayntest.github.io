@@ -15,8 +15,8 @@ var map = L.map('map', {
     fullscreenControl: true,
     crs: L.CRS.Simple
 }).setView([0,0], 23);
-var southWest = map.unproject([0, mapsize], 24);
-var northEast = map.unproject([mapsize, 0], 24);
+var southWest = map.unproject([0, mapsize], map.options.maxNativeZoom);
+var northEast = map.unproject([mapsize, 0], map.options.maxNativeZoom);
 map.setMaxBounds(new L.LatLngBounds(southWest, northEast));
 L.tileLayer('http://maps.ayntest.net/tiles/{z}/map_{x}_{y}.png', {
             maxZoom: 25,
