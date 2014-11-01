@@ -1,4 +1,5 @@
 Title: Map
+Slug: liberty-land-map
 
 <link rel="stylesheet" href="/css/leaflet.css" />
 <script src="/javascript/leaflet.js"></script>
