@@ -2,10 +2,10 @@ Title: Map
 Slug: liberty-land-map
 
 <link rel="stylesheet" href="/css/leaflet.css" />
-<script src="/javascript/leaflet.js"></script>
 <link rel="stylesheet" href="/css/Control.FullScreen.css" />
-<script src="/javascript/Control.FullScreen.js"></script>
 <link rel="stylesheet" href="/css/leaflet-custom.css" />
+<script src="/javascript/leaflet.js"></script>
+<script src="/javascript/Control.FullScreen.js"></script>
 
 <div id="map">
 <script src="/javascript/map-ayntest.js"></script>
