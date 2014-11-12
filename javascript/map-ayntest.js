@@ -1,3 +1,19 @@
+L.Projection.NoWrap = {
+    project: function (latlng) {
+        return new L.Point(latlng.lat, latlng.lng);
+    },
+
+    unproject: function (point, unbounded) {
+        return new L.LatLng(point.x, point.y, true);
+    }
+};
+
+L.CRS.Direct = L.Util.extend({}, L.CRS, {
+    code: 'Direct',
+    projection: L.Projection.NoWrap,
+    transformation: new L.Transformation(1.0/65536, 30928.0/65536, -1.0/65536, 34608.0/65536)
+});
+
 var mapsize = 8256;
 var map = L.map('map', {
     maxZoom:28,
