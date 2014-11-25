@@ -15,3 +15,11 @@ L.tileLayer('http://maps.ayntest.net/tiles/{z}/map_{x}_{y}.png', {
             tileSize: 344,
 }).addTo(map);
 map.setView(map.unproject([mapsize/4,mapsize/4]));
+
+var c = new L.Control.Coordinates();
+
+c.addTo(map);
+
+map.on('click', function(e) {
+        c.setCoordinates(e);
+});
