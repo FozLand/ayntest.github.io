@@ -1,7 +1,6 @@
 Title: Mobs are Live!
 Date: 2014-09-27 10:00
 Author: george
-Category: News
 
 # Animals and monsters now inhabit Liberty Land
 

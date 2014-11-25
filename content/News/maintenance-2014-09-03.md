@@ -1,7 +1,6 @@
 Title: Planned Maintenance at 2014-09-04 05:00 UTC
 Date: 2014-09-03 16:00
 Author: george
-Category: News
 Tags: maintenance
 
 Our super awesome admin, sol, needs to do some h4x0r computer magic on our game server to make it more amazing.

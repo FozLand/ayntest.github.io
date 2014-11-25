@@ -47,6 +47,7 @@ DEFAULT_PAGINATION = 10
 # Required for github pages site custom domain
 STATIC_PATHS = ['images', 'extra/CNAME', 'js', 'css']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+USE_FOLDER_AS_CATEGORY = True # default is True
 
 PLUGIN_PATHS = ["plugins",]
 PLUGINS = ["sitemap",]
