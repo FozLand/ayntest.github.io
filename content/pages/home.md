@@ -3,8 +3,10 @@ URL:
 save_as: index.html
 status: hidden
 
+[
 <img src="http://graphite-web.ayntest.net/render?from=-24h&until=now&target=legendValue(alias(color(applications.m-ayntest-net.players_online,'000000'),'players online last 24 hours'),'last')&format=png&width=500&height=200&bgcolor=FFFFFF&fgcolor=000000&lineWidth=1&yMin=0&yUnitSystem=si&lineMode=connected" ></img>
 </br>
+](http://grafana.ayntest.net)
 
 # Come build with us!
 
