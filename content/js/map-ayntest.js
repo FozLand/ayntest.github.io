@@ -1,4 +1,4 @@
-var mapsize = 8256;
+var mapsize = 9600;
 var map = L.map('map', {
     maxZoom:28,
     minZoom:22,
@@ -12,6 +12,6 @@ map.setMaxBounds(new L.LatLngBounds(southWest, northEast));
 L.tileLayer('http://maps.ayntest.net/tiles/{z}/map_{x}_{y}.png', {
             maxZoom: 28,
             maxNativeZoom:24,
-            tileSize: 344,
+            tileSize: 200,
 }).addTo(map);
 map.setView(map.unproject([mapsize/4,mapsize/4]));
