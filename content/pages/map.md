@@ -11,5 +11,3 @@ Slug: liberty-land-map
 <script src="/js/map-ayntest.js"></script>
 
 </div>
-
-White areas on the map have not been explored yet. What are you waiting for!
