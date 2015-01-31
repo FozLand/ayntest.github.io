@@ -5,42 +5,49 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ayntest.net/index.html</loc>
-<lastmod>2014-12-18T14:13:44-00:00</lastmod>
+<lastmod>2015-01-31T20:58:27-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ayntest.net/archives.html</loc>
-<lastmod>2014-12-18T14:13:44-00:00</lastmod>
+<lastmod>2015-01-31T20:58:27-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ayntest.net/tags.html</loc>
-<lastmod>2014-12-18T14:13:44-00:00</lastmod>
+<lastmod>2015-01-31T20:58:27-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ayntest.net/categories.html</loc>
-<lastmod>2014-12-18T14:13:44-00:00</lastmod>
+<lastmod>2015-01-31T20:58:27-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ayntest.net/pages/guide.html</loc>
-<lastmod>2014-12-18T14:13:44-00:00</lastmod>
+<lastmod>2015-01-31T20:58:27-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ayntest.net/pages/liberty-land-map.html</loc>
-<lastmod>2014-12-18T14:13:44-00:00</lastmod>
+<lastmod>2015-01-31T20:58:27-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ayntest.net/im-not-dead-yet.html</loc>
+<lastmod>2015-01-31T20:00:00+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -110,7 +117,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ayntest.net/category/news.html</loc>
-<lastmod>2014-12-18T11:00:00+00:00</lastmod>
+<lastmod>2015-01-31T20:00:00+00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -124,7 +131,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ayntest.net/author/george.html</loc>
-<lastmod>2014-12-18T11:00:00+00:00</lastmod>
+<lastmod>2015-01-31T20:00:00+00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
