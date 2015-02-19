@@ -11,3 +11,4 @@ Slug: liberty-land-map
 <script src="/js/map-ayntest.js"></script>
 
 </div>
+<p>This map was last generated on December 18th 2014.</p>
